@@ -1,0 +1,11 @@
+.search-bar {
+   padding: 10px;
+   border-radius: 5px;
+   border: 1px solid burlywood;
+
+}
+.search-bar form{
+    display: flex;
+    flex-direction: column;
+    
+}
